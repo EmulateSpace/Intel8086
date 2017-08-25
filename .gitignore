@@ -1,0 +1,20 @@
+# Ignore image file
+*.img
+
+
+# Ignore indicate file
+*.o
+.*
+*.*~
+*.map
+*.svg
+*.patch
+*.
+*.a
+
+# Execte file
+emu8086
+
+!.gitignore
+
+# output
